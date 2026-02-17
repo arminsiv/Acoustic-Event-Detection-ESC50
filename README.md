@@ -1,6 +1,6 @@
 # Acoustic-Event-Detection-ESC50
 
-This repository the project focuses on the automated classification of environmental sounds (ESC-50 dataset) using a dual-approach methodology: Supervised Learning for classification and Unsupervised Learning for structure discovery.
+This repository focuses on the automated classification of environmental sounds (ESC-50 dataset) using a dual-approach methodology: Supervised Learning for classification and Unsupervised Learning for structure discovery.
 
 ### Applied Machine Learning (ESC-50 Dataset)
 
