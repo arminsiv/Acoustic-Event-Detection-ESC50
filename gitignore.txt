@@ -1,0 +1,10 @@
+*.csv
+*.jpg
+*.png
+*.gif
+*.audio
+*.mp3
+*.wav
+*.data
+data/
+*.__pycache__
